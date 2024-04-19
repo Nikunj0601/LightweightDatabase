@@ -1,0 +1,2 @@
+id INT PRIMARY KEY|name VARCHAR(255)|phone_number VARCHAR(15)|
+1|'UpdatedName'| 1234567894
